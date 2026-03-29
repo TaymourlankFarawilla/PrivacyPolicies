@@ -1,3 +1,7 @@
+---
+title: PuzzleTide Privacy Policy
+---
+
 # Privacy Policy for PuzzleTide2026
 
 **Effective date:** March 26, 2026
@@ -72,3 +76,4 @@ We may update this Privacy Policy from time to time. If changes are significant,
 For questions or requests, contact:
 
 **Email:** taymour.lank.farawilla@gmail.com
+
